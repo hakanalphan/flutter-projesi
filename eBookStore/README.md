@@ -54,10 +54,3 @@ Follow these steps to get the project up and running on your local machine:
 - Dart
 - Firebase (as the backend database)
 
-## Contributing
-
-Feel free to contribute to this project. If you find any issues or have suggestions, please open an [issue](https://github.com/MrMDrX/eBookStore/issues) or create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
