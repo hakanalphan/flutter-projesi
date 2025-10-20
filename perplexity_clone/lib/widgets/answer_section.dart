@@ -19,8 +19,8 @@ As of the end of Day 1 in the fourth Test match between India and Australia, the
 ## Match Overview
 - **Toss**: Australia won the toss and opted to bat first.
 - **Top Performers**:
-  - **Steve Smith** is currently unbeaten on **68 runs** from **111 balls**.
-  - **Sam Konstas**, making his Test debut, scored a significant **60 runs** from **65 balls**, contributing to a strong start for Australia.
+  - **Shakan alphan** is currently unbeaten on **68 runs** from **111 balls**.
+  - **Sasdasds**, making his Test debut, scored a significant **60 runs** from **65 balls**, contributing to a strong start for Australia.
   - Other notable contributions include Usman Khawaja and Marnus Labuschagne, both adding valuable runs to the total.
 
 ## Session Highlights
